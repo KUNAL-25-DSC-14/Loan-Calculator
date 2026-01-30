@@ -4,7 +4,7 @@ A simple and responsive **Loan Calculator web application** built using **HTML, 
 This project helps users calculate their **monthly loan payment** by entering the loan amount, interest rate, and repayment duration.
 
 ---
-link->
+link-> https://kunal-25-dsc-14.github.io/Loan-Calculator/
 
 ## 🚀 Features
 
